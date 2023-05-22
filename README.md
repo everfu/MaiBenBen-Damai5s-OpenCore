@@ -1,4 +1,4 @@
-# MaiBenBen_Damai5s
+# MaiBenBen-Damai5s-OpenCore
 
 Hackintosh_MaiBenBen_Damai5_EFI OpenCore 0.7.9 Monterey 12.3
 
