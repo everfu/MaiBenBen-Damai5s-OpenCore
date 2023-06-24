@@ -1,6 +1,6 @@
 # MaiBenBen-Damai5s-OpenCore
 
-## [中文文档](https://github.com/wleelw/MaiBenBen-Damai5s-OpenCore/edit/main/README.zh-CN.md)
+## [中文文档](https://github.com/wleelw/MaiBenBen-Damai5s-OpenCore/blob/main/README.zh_CN.md)
 
 Hackintosh_MaiBenBen_Damai5_EFI OpenCore 0.7.9 Monterey 12.3
 
