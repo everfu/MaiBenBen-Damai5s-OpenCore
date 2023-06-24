@@ -1,5 +1,7 @@
 # MaiBenBen-Damai5s-OpenCore
 
+## [中文文档](https://github.com/wleelw/MaiBenBen-Damai5s-OpenCore/edit/main/README.zh-CN.md)
+
 Hackintosh_MaiBenBen_Damai5_EFI OpenCore 0.7.9 Monterey 12.3
 
 In addition to the touch board, keyboard, unique (GTX1050) no solution, other is perfect, keyboard shield, personal habits do not like the laptop keyboard.
